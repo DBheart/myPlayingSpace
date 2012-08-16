@@ -23,6 +23,7 @@ nbproject
 *.sublime-workspace
 .metadata
 ..settings
+.classpath
 
 # Komodo
 *.komodoproject
@@ -33,3 +34,5 @@ nbproject
 .svn
 .CVS
 .idea
+bin/
+testDB/
