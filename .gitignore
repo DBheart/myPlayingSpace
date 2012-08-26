@@ -34,5 +34,5 @@ nbproject
 .svn
 .CVS
 .idea
-bin/
-testDB/
+bin
+testDB
