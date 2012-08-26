@@ -4,6 +4,9 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+import db.util.file.GetConfiguration;
+
+
 public class DBConntions {
 	GetConfiguration config = new GetConfiguration();
 	
